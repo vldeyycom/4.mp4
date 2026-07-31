@@ -32,7 +32,7 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://s.shopee.co.id/2Vmk5VxQyS", "_blank");
+    window.open("https://s.shopee.co.id/5ArJA7FRJ5", "_blank");
 });
 
 
